@@ -2,6 +2,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: white;
+}
+
 #wrapper {
     padding-left: 0;
     -webkit-transition: all 0.5s ease;
@@ -64,7 +68,9 @@ h1 {
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: #999999;
+    color: deepskyblue;
+    text-decoration: underline;
+    font-size: 2rem;
 }
 
 .sidebar-nav li a:hover {
